@@ -1,3 +1,3 @@
 # 버전 정보
-Spring Boot
-JDK 21
+- Spring Boot 3.4.6
+- JDK 21

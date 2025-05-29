@@ -1,0 +1,2 @@
+rootProject.name = 'modular-monolith-template'
+include 'chat-module','member-module'

@@ -2,9 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,windows,macos,intellij,eclipse,visualstudiocode,gradle,maven
 
 application-secret.properties
-application-mariadb.properties
-application-redis.properties
-application-smtp.properties
 
 .env
 HELP.md
